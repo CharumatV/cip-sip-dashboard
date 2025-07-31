@@ -8,7 +8,7 @@ A Streamlit-based simulation tool to visualize and monitor the Clean-in-Place (C
 - History of phase changes
 
 ## 🖥 Live Demo
-👉 [Click to view the app](https://your-streamlit-url.streamlit.app)
+👉 [Click to view the app](https://cip-sip-dashboard-6z538kairvgrqwkhjnepse.streamlit.app/)
 
 ## 🚀 Tech Stack
 - Python
